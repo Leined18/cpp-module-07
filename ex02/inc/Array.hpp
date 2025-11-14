@@ -3,6 +3,18 @@
 
 #include <exception>
 
+/**
+ * Array.hpp
+ *
+ * Breve explicación sobre la plantilla de clase Array<T>:
+ *
+ * Array es una plantilla de clase que encapsula un array dinámico de
+ * elementos de tipo T. Las definiciones de los métodos de la plantilla
+ * deben estar visibles en el punto de instanciación, por eso la
+ * implementación se coloca en el archivo "Array.tpp" e incluimos
+ * dicho archivo al final del header.
+ */
+
 template <typename T>
 class Array {
 private:
