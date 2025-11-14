@@ -26,7 +26,7 @@ To compile the project, navigate to the `ex00` directory and run:
 make
 ```
 
-This will generate an executable named `ex0n!`. You can then run the executable to see the results of the tests performed in `main.cpp`.
+This will generate an executable named `ex00`. You can then run the executable to see the results of the tests performed in `main.cpp`.
 
 ## Example Output
 
