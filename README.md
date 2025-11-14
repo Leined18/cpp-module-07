@@ -34,15 +34,6 @@ Each exercise contains a `Makefile` that specifies the compilation rules and fla
 make
 ```
 
-## Compiler Flags
-The following compiler flags are used throughout the project:
-- `-I`: Include directory for header files.
-- `-Werror`: Treat warnings as errors.
-- `-Wextra`: Enable additional warnings.
-- `-`: (Typo in the original specification, should be `-Wall`).
-- `-std=c++98`: Use the C++98 standard.
-- `-fsanitize=address`: Enable address sanitization for detecting memory errors.
-
 ## Contribution
 Feel free to contribute to this project by adding new exercises or improving existing ones. Ensure that all code adheres to the specified guidelines and standards.
 
